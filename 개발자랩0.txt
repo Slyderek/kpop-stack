@@ -5,6 +5,7 @@
 left, right, inner 이리저리 붙여봐도
 내 삶의 key는 보이지 않지
 
+어제 만든 변수들은 오늘의 int로
 겨우 한달도 안됐는데 일은 이제 double
 벌써 세 번째 check-in
 활자 위로 float하는 나의 삶
